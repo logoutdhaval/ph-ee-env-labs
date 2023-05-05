@@ -670,7 +670,7 @@ ph-ee-engine:
       annotations:
         deployTime: "{{ .Values.deployTime }}"
 
-  connector-bulk:
+  connector_bulk:
     enabled: true
     image: "419830066942.dkr.ecr.ap-south-1.amazonaws.com/phee-bulk-processor"
     imageTag: latest
