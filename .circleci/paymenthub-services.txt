@@ -1,0 +1,10 @@
+ph-ee-g2psandbox.ph-ee-engine.messagegateway.image | docker.io/openmf/message-gateway | latest
+ph-ee-g2psandbox.ph-ee-engine.ph_ee_connector_gsma.image | docker.io/openmf/ph-ee-connector-gsma | latest
+ph-ee-g2psandbox.ph-ee-engine.mockpayment.image | docker.io/openmf/ph-ee-connector-mock-payment-schema | latest
+ph-ee-g2psandbox.ph-ee-engine.ph_ee_connector_mojaloop.image | docker.io/openmf/ph-ee-connector-mojaloop | latest
+ph-ee-g2psandbox.ph-ee-engine.notifications.image | docker.io/openmf/ph-ee-notifications | latest
+ph-ee-g2psandbox.account_mapper.image | docker.io/openmf/ph-ee-identity-account-mapper | latest
+ph-ee-g2psandbox.ph-ee-engine.importer_es.image | docker.io/openmf/ph-ee-importer-es | latest
+ph-ee-g2psandbox.ph-ee-engine.operations_app.image | docker.io/openmf/ph-ee-operations-app | latest
+ph-ee-g2psandbox.ph-ee-engine.operations_web.image | docker.io/openmf/ph-ee-operations-web | latest
+ph-ee-g2psandbox.ph-ee-engine.vouchers.image | docker.io/openmf/ph-ee-vouchers | latest
