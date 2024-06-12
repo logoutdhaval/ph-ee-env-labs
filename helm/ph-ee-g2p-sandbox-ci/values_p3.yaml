@@ -10,3 +10,7 @@
        enabled: false
      operations_web:
        enabled: false
+     importer_es:
+       enabled: false
+     post_installation_job:
+       enabled: true
