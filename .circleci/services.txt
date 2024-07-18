@@ -20,3 +20,4 @@ ph-ee-g2psandbox.ph-ee-engine.billPay.image fynarfin/ph-ee-bill-pay
 ph-ee-g2psandbox.ph-ee-engine.connector.image fynarfin/ph-ee-connector-bulk
 ph-ee-g2psandbox.ph-ee-engine.integration_test.image fynarfin/ph-ee-integration-test
 ph-ee-g2psandbox.ph-ee-engine.zeebe_ops.image fynarfin/ph-ee-zeebe-ops
+ph-ee-g2psandbox.ph-ee-engine.post_installation_job.image fynarfin/post-installation-job
